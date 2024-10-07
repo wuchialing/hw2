@@ -52,4 +52,4 @@ gantt
     使用者訓練    :a10,after a7  , 20d
     使用者測試    :a11,after a1  , 25d
 
-![gantt](gantt.png "gantt")
+![GANTT](gantt.png "GANTT")
